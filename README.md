@@ -51,5 +51,17 @@ This project uses the famous **Iris dataset** to demonstrate statistics, correla
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/iris-data-science-dashboard.git
+
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the Script
+python iris_dashboard.py
+
+```
+🖼️ Output :
+iris_dashboard.png
