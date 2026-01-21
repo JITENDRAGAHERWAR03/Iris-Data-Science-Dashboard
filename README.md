@@ -64,7 +64,8 @@ python iris_dashboard.py
 
 ```
 🖼️ Output :
-iris_dashboard.png
+<img width="1200" height="800" alt="iris_dashboard" src="https://github.com/user-attachments/assets/32b43820-7e79-4a15-b6ee-f9ebdd6abec4" />
+
 🎯 Learning Outcomes
 
 Understand EDA workflow
