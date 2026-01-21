@@ -65,3 +65,19 @@ python iris_dashboard.py
 ```
 🖼️ Output :
 iris_dashboard.png
+🎯 Learning Outcomes
+
+Understand EDA workflow
+
+Learn feature relationships
+
+Practice data visualization
+
+Prepare a GitHub-ready data science project
+
+👨‍💻 Author
+
+Jitendra KanhaiyaSingh Gaherwar
+Data Analyst | Python | Machine Learning | Power BI
+
+⭐ If you like this project, give it a star!
